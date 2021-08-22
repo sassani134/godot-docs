@@ -143,10 +143,10 @@ Select the ``MarginContainer`` again, and head to the inspector to
 define the margins' size. Scroll down the ``Control`` class, to the
 ``Custom Constants`` section. Unfold it. Set the margins as such:
 
--  Margin Right: *120*
+-  Margin Right: *-120*
 -  Margin Top: *80*
 -  Margin Left: *120*
--  Margin Bottom: *80*
+-  Margin Bottom: *-80*
 
 We want the container to fit the window. In the toolbar above the Viewport,
 open the **Layout** menu and select the last option, **Full Rect**.
